@@ -45,11 +45,12 @@ ignores it.
 <br>
 <p></p><hr>
 <h2>Below is a group photo with my friends: </h2><h2>
-<img src="file:///D:/Desktop/SHANYU(B.TECH)/HTML/frens.jpg" width="700" height="400" alt="Group photo with friends">
+<img src="https://picsum.photos/200/300" width="700" height="400" alt="Group photo with friends">
 <br><br>
 </h2><h3>In case the photo is not found or not accessible: </h3>
 <p>Usage of 'alt' attribute in 'img' tag</p><p>
-<img src="file:///D:/Desktop/SHANYU(B.TECH)/HTML/fres.jpg" width="700" height="400" alt="Group photo with friends">
+<img src="https://picsum.photos/200" width="700" height="400" alt="Random Image">
+<img src="https://picsum.photos/200/300?grayscale" alt="Random Image">
 <br>
 </p><hr>
 <br>
