@@ -34,7 +34,7 @@ but the        browser
 ignores it.
 </p>
 <p title="This is a practice html webpage">This is a paragraph.</p>
-<p>Parah with </p><hr> horizontal line.<p></p><img src="./practice_files/564-200x200.jpg" alt="Random Image">
+<p>Parah with </p><hr> horizontal line.<p></p><img src="https://picsum.photos/id/870/200/300?grayscale&blur=2" alt="Random Image">
 <br>
 <hr>
 <p>Hyperlink link given below to visit g-learn</p><p>
