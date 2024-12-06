@@ -6,6 +6,7 @@
 <body>
 <main>
 <h1 style="text-align:center">My First HTML Webpage</h1>
+  
 <p>This is a simple parah</p> 
 <p style="color:red; font-family:tahoma; font-size:30px">This is a red paragraph written in Tahoma font family with pixel size of 30.</p>
 <p>Parah with <br>line break.</p>
@@ -53,11 +54,12 @@ ignores it.
 <img src="https://picsum.photos/200/300?grayscale" alt="Random Image">
 <br>
 </p><hr>
-<br>
+<be>
+<h2 >My Favourite Food</h2>
 <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
+    <li>Apple</li>
+    <li>Orange</li>
+    <li>Banana</li>
 </ul>
 </main>
 </body></html>
